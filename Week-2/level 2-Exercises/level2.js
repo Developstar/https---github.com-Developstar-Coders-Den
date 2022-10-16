@@ -11,4 +11,6 @@ let secondStatement = '"Love is not patronizing and charity isn\'t about pity, i
 console.log(secondStatement);
 
 
-// Check if typeof '10' is exactly equal to 10. If not make it exactly equal.
+// Check if typeof '10' is exactly equal to 10. If not make it exactly equal
+
+
