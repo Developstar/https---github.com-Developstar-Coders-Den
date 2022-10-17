@@ -13,4 +13,13 @@ console.log(secondStatement);
 
 // Check if typeof '10' is exactly equal to 10. If not make it exactly equal
 
+console.log(typeof '10');
+
+// to turn '10' to 10
+let number = '10';
+let num = parseInt(number);
+console.log(num);
+
+console.log(num);
+
 
